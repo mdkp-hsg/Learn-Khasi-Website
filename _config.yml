@@ -12,7 +12,7 @@ donate_link                               : https://learnkhasi.in/donate        
 app_icon                                  : assets/logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Learn Khasi App                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : An app that let's user find, ask and answer words with their meaning and sentences in English, Khasi and Garo.
+app_description                           : An app that let users find, ask and answer words with their meaning and sentences in English, Khasi and Garo.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Sngur                                
 your_link                                 : https://sngur.com                     
-your_city                                 : Shhillong                                
+your_city                                 : Shillong                                
 email_address                             : sngurshillong@gmail.com
 facebook_username                         : sngur.shillong                                         
 instagram_username                        : sngur_shillong
@@ -39,15 +39,15 @@ features                                  :
     fontawesome_icon_name                 : book
     
   - title                                 : Khasi-English-Garo Dictionary
-    description                           : Search, Find and Ask Khasi words and their respective translated English and Garo words.
+    description                           : Search, Ask and Vote up/down Khasi words and their respective translated English and Garo words.
     fontawesome_icon_name                 : book
 
   - title                                 : English-Khasi-Garo Dictionary
-    description                           : Search, Find and Ask English words and their respective translated Khasi and Garo words.
+    description                           : Search, Ask and Vote up/down English words and their respective translated Khasi and Garo words.
     fontawesome_icon_name                 : book
 
   - title                                 : Sentences
-    description                           : Know how to speak/write an English sentence in Khasi and Garo. Add Egnlish, Khasi, Garo and Hindi transalations.
+    description                           : Know how to speak/write an English sentence in Khasi and Garo. Add English, Khasi, Garo and Hindi transalations.
     fontawesome_icon_name                 : book
 
   - title                                 : Earn Points and Level Up
@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Like and Share Words and Sentence transalations
-    description                           : Easily share screenshot of words and sentences with your friends
+    description                           : Easily share screenshot of words and sentences with your friends, like or vote up correct words and transalations
     fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Support And Sponsor us
