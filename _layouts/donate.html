@@ -1,0 +1,35 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="subPageBody">
+    <div class="headerBackground subPageHeaderBackground">
+        <div class="container subPageContainer">
+        {% include header.html %}
+            <article class="page markdown-body">
+                {{ content }}
+                <!-- TODO Add Donate button and UPI -->
+                <a name="ios">
+                	<h3>iOS and WebApp Version</h3>
+                	<p>
+                		Do you want us to build an iOS and WebApp version for our Learn Khasi app?<br/>
+                		Well it takes time, effort and skills to build them and currently it's in our plan but we need your support to help raise funds in order to build them. <br/> You can help by making a donation below and select: "RAISE FUND FOR BUILDING Web and iOS App". If you want to know our estimate bugdet and what is the cost to develop and deploy our app contact us via email: sngurshillong@gmail.com.
+                	</p>
+                </a>
+                <form>
+                	<script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_GLZxTgV1QW5LwA"> 
+                	</script>
+                </form>
+                <!-- <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_GLaxfqhN0rjPMz" data-button_theme="rzp-outline-standard"> </script> </form> -->
+            </article>
+        </div>
+        {% include appstoreimages.html %}
+    </div>
+</body>
+
+</html>
