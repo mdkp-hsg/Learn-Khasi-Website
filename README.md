@@ -7,7 +7,7 @@ If you are looking for the Learn Khasi app and also the Learn Khasi words and se
 
 - [Learn Khasi App](https://github.com/sngur/Learn-Khasi-App)
 
-- If you need anything else contact us: <sngurshillong@gmail.com>sngurshillong@gmail.com
+- If you need anything else contact us: sngurshillong@gmail.com
 
 ### Website theme credit 
 

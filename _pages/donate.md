@@ -11,20 +11,20 @@ January 15 2021
 
 Help us in making the Learn Khasi app free for use, ad-free and also more efficient by supporting us.
 You donation counts! If you make a one time donation of Rs. 500, it will contribute to pay our bill for a month.
-You can also donate any amount (minimum of Rs. 100) or choose to become a sponsor and support us with any amount for 1 year.
-You can donate by pressing the "Donate Now" button and we accept credit or debit cards, netBanking and UPI payments. 
+You can also donate any amount (minimum of Rs. 10) or choose to become a sponsor and support us with any amount per month for 1 year.
+You can donate by pressing any of the three "Donate Now" buttons in this page. We accept credit or debit cards, NetBanking, Google Pay and UPI payments.
 
-If you would like to make a NEFT transfer or donate using Google Pay, contact us via email.
+If you would like to make a NEFT transfer or donate directly using Google Pay, contact us via email.
 
-	For more details on being a yearly sponsor contact us : <sngurshillong@gmail.com>sngurshillong@gmail.com
+	For more details on being a yearly sponsor contact us : sngurshillong@gmail.com
 
 **Budget Estimate**
 
 Our target budget Estimate for this year is Rs. 50,000/-.
 
-	Estimate Budget 			: Rs. 50,000/-
+	Estimate Budget (for 1000 active users/month)	: Rs. 50,000/-
 
-	Amount Received as donation : Rs. 0/-
+	Amount Received as donation						: Rs. 10/-
 
 
 **Our Sponsors**
