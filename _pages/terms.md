@@ -38,8 +38,8 @@ At some point, we may wish to update the app. The app is currently available on 
 You as a user of the app is responsible for the content(text, audio, images) you upload and share. 
 The app is made open to all in the community and we request everyone to be helpful, kind and take care while posting in the app, let's be responsible and encourage one another in doing what's good, right and helpful. To promote and safeguard our Local Language.
 
-You also agree that the content you add using the app will belong to us and we have the right to change or remove them if required.
-The words and sentences you add will be added to our database and the database will be available from our github repository.
+You also agree that the content you add using the app will belong to us and we have the right to change or remove them if required without informating you of the change or removal of your content.
+The words and sentences you add will be added to our database and the database will be available from our github repository. You can add a new word or sentence, you can only modify your own word or sentence but you cannot delete them.
 
 **Sponsor**
 
