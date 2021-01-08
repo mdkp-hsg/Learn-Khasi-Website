@@ -61,11 +61,11 @@ features                                  :
     fontawesome_icon_name                 : trophy
 
   - title                                 : Favorites
-    description                           : Add Words to your Favorites List
+    description                           : Add Words to your Favorites List.
     fontawesome_icon_name                 : star
 
   - title                                 : Like and Share Words and Sentence translations
-    description                           : Easily share screenshot of words and sentences with your friends, like or vote up correct words and translations
+    description                           : Easily share screenshot of words and sentences with your friends, like or vote up correct words and translations.
     fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Support And Sponsor us
