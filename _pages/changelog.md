@@ -33,5 +33,6 @@ An app that let users find, ask and answer words with their meaning and sentence
 - Report an incorrect word or sentence
 - View the words and sentences you added from the Profile screen
 - View and correct the words and sentences reported by users
+- Offline mode
 
 <br>

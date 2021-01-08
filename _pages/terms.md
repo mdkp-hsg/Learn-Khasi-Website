@@ -38,12 +38,14 @@ At some point, we may wish to update the app. The app is currently available on 
 You as a user of the app is responsible for the content(text, audio, images) you upload and share. 
 The app is made open to all in the community and we request everyone to be helpful, kind and take care while posting in the app, let's be responsible and encourage one another in doing what's good, right and helpful. To promote and safeguard our Local Language.
 
-You also agree that the content you add using the app will belong to us and we have the right to change or remove them if required without informating you of the change or removal of your content.
-The words and sentences you add will be added to our database and the database will be available from our github repository. You can add a new word or sentence, you can only modify your own word or sentence but you cannot delete them.
+You also agree that the content you add using the app will belong to us and we have the right to change or remove them if required without informing you of the change or removal of your content.
+The words and sentences you add will be added to our database and the database will be available from our github repository. We do not guarantee that we will update the database in our github repository regularly and if you want the latest database then kindly contact us via email. You can add a new word or sentence, you can only modify your own word or sentence but you cannot delete them. A user who is an Editor will have the rights to view and modify the words and sentences uploaded by any user. An Editor is a trusted user whom we have selected to volunteer in using the app and to monitor, report and correct the content in the app.
+
+Users should take responsibility and be helpful when they use the app. We the service provider are not responsible for any misuse of the app by any user.
 
 **Sponsor**
 
-You as a user can help and support us by making a donation of any amount and become a sponsor. We accept donations from you using a third party application or merchant or you can also donate using UPI. 
+You as a user can help and support us by making a donation of any amount and become a sponsor. We accept donations from you using razorpay donation button or you can also donate through direct NEFT Bank transfer or using UPI payment. For more information on being a sponsor contact us via email. 
 
 **Changes to This Terms and Conditions**
 

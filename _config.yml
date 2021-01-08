@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : trophy
   
   - title                                 : Levels
-    description                           : There are three levels in the app, you first start at level 1.
+    description                           : There are four levels in the app, you first start at level 1.
     fontawesome_icon_name                 : trophy
 
   - title                                 : Favorites

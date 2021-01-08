@@ -19,7 +19,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, We may require you to provide us with certain personally identifiable information, including but not limited to name, email, gmail profile picture link. The information that we request will be retained on your device and is not collected by us in any way.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, email address and gmail profile picture link. The information that we request will be retained on your device and no other personal information will be collected by us in any way, except for online survey purposes regarding your app usage and personal preferences later.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -50,7 +50,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 13. Since the app is of educational use, children under 13 may use the app, provided they have obtained permission from their parents or guardian.
+These Services do not directly address anyone under the age of 13 but since the app is of educational use, children under 13 may use the app, provided they have obtained permission from their parents or guardian. We strongly recommend that parents or guardians or teachers or anyone who would recommend this app to their children or students will be responsible and take care of their usage. We are not responsible for any misuse of the app by any user.
 
 **Changes to This Privacy Policy**
 
