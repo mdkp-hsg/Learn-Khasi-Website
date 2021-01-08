@@ -32,6 +32,7 @@ The Learn Khasi app is a free and open source application. We are running our se
 - Report an incorrect word or sentence
 - View the words and sentences you added from the Profile screen
 - View and correct the words and sentences reported by users
+- Offline mode
 
 ### Points
 
@@ -84,5 +85,5 @@ These are words and sentences that have been reported as invalid by users.
 
 
 
-	- Source code: 
- - [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
+- Source code: 
+- [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
