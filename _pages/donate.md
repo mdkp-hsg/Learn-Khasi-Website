@@ -20,14 +20,16 @@ If you would like to make a NEFT transfer or donate directly using Google Pay, c
 
 **Budget Estimate**
 
-Our target Estimated budget for this year is Rs. 2,61,000/-
+Our Target Estimated budget for this year is Rs. 2,61,000/-
 
 	Estimate Budget (for 1000 active users/month)					: Rs. 21,750/month
 
-	Amount Received as donation						: Rs. 10/-
+	Amount Received as donation							: Rs. 10/-
 
 
 **Our Sponsors**
+
+*Status: Not Sponsored*
 
 Currently we have no sponsors, if you would like to sponsor, we would love to put your name or your business name or your logo/brand icon here as a token of gratitude.
 
