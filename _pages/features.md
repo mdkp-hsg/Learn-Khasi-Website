@@ -51,23 +51,28 @@ Levels are upgraded* up when you earn points. The higher the level the more feat
 - Level 3 - Earned when you have 12500 Points - You can add more words and translations. You will also be able to perform more than 150 advance search online.
 - Level 4 - Unlock this level when you choose to become a sponsor and have unlimited access.
 
-* Note: Level upgrade will be locked, this means even if you have >2500 points you cannot upgrade to the next level. 
+* Note: 
+Level upgrade will be locked, this means even if you have >2500 points you cannot upgrade to the next level. 
 You can unlock this feature my making a one time donation of minimum Rs. 10.
+
+ * unlimited access : means there will be no limit for sponsors when they use the app, the only limit is when our free server quota or resources have been used and we havn't been fully sponsored yet.
 
 - [Donate Now](https://learnkhasi.in/donate)
 
 
 ### Badge 
 
-There are five badges in the app based on your knowledge of the Khasi Language.
+There are six badges in the app based on your knowledge of the Khasi Language.
 They are: 
 - Learner
 - Speaker
 - Reader 
 - Writer
+- Editor
 - Sponsor
 
  You earn a sponsor badge when you choose to make a commitment to sponsor us with an amount of Rs. 100 or more for a year.
+ Editor badge are given to selected users.
 
 ### Words 
 
@@ -88,5 +93,13 @@ These are words and sentences that have been reported as invalid by users.
  A user who is an Editor will have the rights to view and modify the words and sentences uploaded by any user.
  An Editor is a trusted user whom we have selected to volunteer in using the app and to monitor, report and correct the content in the app.
 
-- Source code: 
+#### Our List of Editors
+
+- Sngur (sngurshillong@gmail.com)
+- More to be added later
+
+If you are insterested to become an editor, contact us via email.
+
+
+#### Source code: 
 - [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
