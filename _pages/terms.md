@@ -43,9 +43,15 @@ The words and sentences you add will be added to our database and the database w
 
 Users should take responsibility and be helpful when they use the app. We the service provider are not responsible for any misuse of the app by any user.
 
+**Our Cloud Server Availability**
+
+We are hosting our application on Google Cloud Server, and we have opted for a free limited plan as of January 2021. This means we cannot guarantee the 100% availability of our service when our limit is reached for any particular month.
+
 **Sponsor**
 
 You as a user can help and support us by making a donation of any amount and become a sponsor. We accept donations from you using razorpay donation button or you can also donate through direct NEFT Bank transfer or using UPI payment. For more information on being a sponsor contact us via email. 
+
+- [Know More and Donate Now](https://learnkhasi.in/donate)
 
 **Changes to This Terms and Conditions**
 
