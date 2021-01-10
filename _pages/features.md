@@ -9,7 +9,7 @@ January 15 2021
 
 **App Features**
 
-The Learn Khasi app is a free and open source application. We are running our servers on the cloud based on the support we receive from users of the app. 
+The Learn Khasi app is a free and open source application. We are running our servers on the cloud, based on the support we receive from users of the app. 
 
 ## App Features
 
