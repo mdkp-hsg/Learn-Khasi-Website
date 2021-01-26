@@ -24,7 +24,7 @@ Our Target Estimated budget for this year is Rs. 2,61,000/-
 
 	Estimate Budget (for 1000 active users/month)					: Rs. 21,750/month
 
-	Amount Received as donation							: Rs. 10/-
+	Amount Received as donation							: Rs. 110/-
 
 
 **Our Sponsors**
