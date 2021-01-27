@@ -8,6 +8,20 @@ include_in_header: true
 
 <br>
 
+### `Minor Release`
+# **Version 1.0.1** 
+28<sup>th</sup> Jan 2021
+
+Bug fixes and improvements: 
+- Fixed Fatal Error Occured in Dictionary screen
+- Fixed Play audio clip button for Khasi words
+- Fixed App crashing for single-word username
+- New Features added in the app: 
+	- Update now button in Home screen: visible when a new update is available
+	- Disable editing of translated words and sentences if they have 20 or more positive votes
+
+<br>
+
 ### `Initial Release`
 # **Version 1.0.0**
 
