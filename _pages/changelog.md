@@ -8,6 +8,30 @@ include_in_header: true
 
 <br>
 
+### `Major Release`
+# **Version 1.1.0** 
+21<sup>st</sup> Feb 2021
+
+New Features:
+- Notifications
+  - Get notifications when a user's word or sentence has been translated by another user
+- Lessons: 3 letters and 4 letters English words now have audio clips for Khasi words pronunciation
+- Improvement in UI
+  - Add shimmer effect for word and sentence fragments while loading them
+- Quick Tips
+   - Show quick tips in the home, dictionary and sentence fragments
+- Safe Search enabled
+   - User can also disable safe search and be able to view reported explicit or vulgar words
+- Display limit for Editors
+  - Editors can change the number of words/sentences they see in the dictionary/sentence fragments
+
+Bug fixes and improvements:
+- Fixed bug in loading dictionary offline
+- Fixed Lessons Activity while viewing lessons for the first time and
+- Other minor bug fixes and performance improvement while downloading the dictionary offline from the settings screen
+
+<br>
+
 ### `Minor Release`
 # **Version 1.0.1** 
 28<sup>th</sup> Jan 2021
