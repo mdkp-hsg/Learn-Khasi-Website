@@ -102,4 +102,4 @@ If you are insterested to become an editor, contact us via email.
 
 
 #### Source code: 
-- [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
+- [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-Android-App)
