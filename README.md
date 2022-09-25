@@ -12,3 +12,6 @@ If you are looking for the Learn Khasi app and also the Learn Khasi words and se
 ### Website theme credit 
 
 Based on the creation of [emilbaehr](https://emilbaehr.com)
+
+#### Source code: 
+- [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-Android-App)
