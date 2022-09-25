@@ -5,15 +5,15 @@ include_in_header: false
 ---
 
 **Last updated**  
-January 15 2021
+September 25 2022
 
 **Terms & Conditions**
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Sngur.
+By downloading and using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re allowed to copy, or modify the app source code by visting our repository on github and forking it, every bit of contribution is acceptable.
 
 Sngur is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-The Learn Khasi app stores and processes personal data that you have provided to us, in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Learn Khasi app won’t work properly or at all.
+The Learn Khasi app stores and processes personal data that you have provided to us when you login using gmail, in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device.
 
 The app does use third party services that declare their own Terms and Conditions.
 
@@ -29,16 +29,16 @@ If you’re using the app outside of an area with Wi-Fi, you should remember tha
 
 Along the same lines, Sngur cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Sngur cannot accept responsibility.
 
-With respect to Sngur’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Sngur accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+With respect to Sngur’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on our users to provide words and sentences in the app so that we can make it available to you. Sngur accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
 
-At some point, we may wish to update the app. The app is currently available on Android – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Sngur does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+At some point, we may wish to update the app. The app is currently available on Android – the requirements for system (and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Sngur does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
 **Content**
 
-You as a user of the app is responsible for the content(text, audio, images) you upload and share. 
-The app is made open to all in the community and we request everyone to be helpful, kind and take care while posting in the app, let's be responsible and encourage one another in doing what's good, right and helpful. To promote and safeguard our Local Language.
+You as a user of the app is responsible for the content (text or media) you upload and share. 
+The app is made open to all in the community and we request everyone to be helpful, kind and take care while posting in the app, let's be responsible and encourage one another in doing what's good, right and helpful to promote and safeguard our Local Language.
 
-You also agree that the content you add using the app will belong to us and we have the right to change or remove them if required without informing you of the change or removal of your content.
+You also agree that the content you add using the app will be stored in our database and we have the right to change or remove them if required without informing you of the change or removal of your content.
 The words and sentences you add will be added to our database and the database will be available from our github repository. We do not guarantee that we will update the database in our github repository regularly and if you want the latest database then kindly contact us via email. You can add a new word or sentence, you can only modify your own word or sentence but you cannot delete them. A user who is an Editor will have the rights to view and modify the words and sentences uploaded by any user. An Editor is a trusted user whom we have selected to volunteer in using the app and to monitor, report and correct the content in the app.
 
 Users should take responsibility and be helpful when they use the app. We the service provider are not responsible for any misuse of the app by any user.
@@ -49,7 +49,7 @@ We are hosting our application on Google Cloud Server, and we have opted for a f
 
 **Sponsor**
 
-You as a user can help and support us by making a donation of any amount and become a sponsor. We accept donations from you using razorpay donation button or you can also donate through direct NEFT Bank transfer or using UPI payment. For more information on being a sponsor contact us via email. 
+You as a user can help and support us by making a donation of any amount and become a sponsor. We accept donations from you using razorpay donation button available in the app. For more information on being a sponsor contact us via email. 
 
 - [Know More and Donate Now](https://learnkhasi.in/donate)
 
