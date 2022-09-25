@@ -44,8 +44,8 @@ features                                  :
     description                           : Search, Ask and Vote up/down Khasi words and their respective translated English and Garo words.
     fontawesome_icon_name                 : book
 
-  - title                                 : English-Khasi-Garo Dictionary
-    description                           : Search, Ask and Vote up/down English words and their respective translated Khasi and Garo words.
+  - title                                 : Users Contribution 
+    description                           : A user can add a word or sentence; translate a given word or sentence.
     fontawesome_icon_name                 : book
 
   - title                                 : Sentences
