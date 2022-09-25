@@ -16,7 +16,7 @@ The Learn Khasi app is a free and open source application. We are running our se
 - Lessons, Dictionary, Sentences and more
 - Lessons:
 	- View Khasi Letters
-	- Listen to Khasi Letters pronunciation 
+	- Listen to Khasi Letter pronunciation 
 	- View Basic English-Khasi words and sentences
 - Dictionary:
 	- English-Khasi-Garo Dictionary 
@@ -37,7 +37,7 @@ The Learn Khasi app is a free and open source application. We are running our se
 ### Points
 
 Points are earned when you add a new word/sentence or when a user up vote your word/sentence. 
-You earn +10 Points when a user up votes your word/sentence and you get -5 points when a user down vote or report your word/sentence.
+You earn +10 Points when a user up votes on your word/sentence and you get -5 points when a user down vote or reports your word/sentence.
 
 The more points you earn, the higher you reach towards upgrading to a new level. 
 
@@ -47,15 +47,15 @@ There are four levels in the app, you first start at level 1.
 Levels are upgraded* up when you earn points. The higher the level the more features you unlock.
 
 - Level 1 - Start with 0 Points - You can search, ask and add new words and sentences translation.
-- Level 2 - Earned when you have 2500 Points - You can add audio clips for new words and sentences, report wrong or invalid translations.
-- Level 3 - Earned when you have 12500 Points - You can add more words and translations. You will also be able to perform more than 150 advance search online.
+- Level 2 - Earned when you have 2500 Points - You can add audio clips for new words and sentences, reports wrong or invalid translations.
+- Level 3 - Earned when you have 12500 Points - You can add more words and translations. You will also be able to perform more than 150 advance searches online.
 - Level 4 - Unlock this level when you choose to become a sponsor and have unlimited access.
 
 * Note: 
 Level upgrade will be locked, this means even if you have >2500 points you cannot upgrade to the next level. 
-You can unlock this feature my making a one time donation of minimum Rs. 10.
+You can unlock this feature by going to your profile and pressing on the upgrade level button.
 
- * unlimited access : means there will be no limit for sponsors when they use the app, the only limit is when our free server quota or resources have been used and we havn't been fully sponsored yet.
+ * unlimited access: There will be no limit for sponsors when they use the app, the only limit is when our free server quota or resources have been used and we haven't been fully sponsored yet.
 
 - [Donate Now](https://learnkhasi.in/donate)
 
@@ -90,7 +90,7 @@ These are words and sentences that have been reported as invalid by users.
 
 ### Editors
 
- A user who is an Editor will have the rights to view and modify the words and sentences uploaded by any user.
+ A user who is an Editor will have the right to view and modify the words and sentences uploaded by any user.
  An Editor is a trusted user whom we have selected to volunteer in using the app and to monitor, report and correct the content in the app.
 
 #### Our List of Editors
@@ -98,7 +98,7 @@ These are words and sentences that have been reported as invalid by users.
 - Sngur (sngurshillong@gmail.com)
 - More to be added later
 
-If you are insterested to become an editor, contact us via email.
+If you are interested to become an editor, contact us via email.
 
 
 #### Source code: 
