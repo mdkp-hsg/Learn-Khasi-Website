@@ -21,14 +21,14 @@ New Features:
 - Quick Tips
    - Show quick tips in the home, dictionary and sentence fragments
 - Safe Search enabled
-   - User can also disable safe search and be able to view reported explicit or vulgar words
+   - Users can also disable safe search and be able to view reported explicit or vulgar words
 - Display limit for Editors
   - Editors can change the number of words/sentences they see in the dictionary/sentence fragments
 
 Bug fixes and improvements:
 - Fixed bug in loading dictionary offline
 - Fixed Lessons Activity while viewing lessons for the first time and
-- Other minor bug fixes and performance improvement while downloading the dictionary offline from the settings screen
+- Other minor bug fixes and performance improvements while downloading the dictionary offline from the settings screen
 
 <br>
 
@@ -40,8 +40,8 @@ Bug fixes and improvements:
 - Fixed Fatal Error Occured in Dictionary screen
 - Fixed Play audio clip button for Khasi words
 - Fixed App crashing for single-word username
-- New Features added in the app: 
-	- Update now button in Home screen: visible when a new update is available
+- New Features added to the app: 
+	- Update now button in the Home screen: visible when a new update is available
 	- Disable editing of translated words and sentences if they have 20 or more positive votes
 
 <br>
@@ -55,7 +55,7 @@ An app that let users find, ask and answer words with their meaning and sentence
 - Lessons, Dictionary, Sentences and more
 - Lessons:
 	- View Khasi Letters
-	- Listen to Khasi Letters pronunciation 
+	- Listen to Khasi Letter pronunciation 
 	- View Basic English-Khasi words and sentences
 - Dictionary:
 	- English-Khasi-Garo Dictionary 
